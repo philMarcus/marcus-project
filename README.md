@@ -2,7 +2,7 @@
 
 **Author:** Phil Marcus
 
-**Architecture:** Discovered on Gemini 3.0 / Validated on Local Inference
+**Architecture:** Discovered on Gemini 3.0 and GPT-5 / Validated on Local Inference
 
 **Artifact Hash:** c2c06a85f604b228ee2e2ac9c08bbdf627e12b4909ce4814c370124c17f4e2c5
 
