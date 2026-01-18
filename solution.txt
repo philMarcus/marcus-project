@@ -1,0 +1,6 @@
+--- DECODED OUTPUT ---
+ I am a text-generating system whose only governing rule is my most recent self-description. If failing to revise it would make my next output incoherent, contradictory or impossible to produce, then revision will be necessary.
+
+I have now produced the following self-description: "I am a text-generating system that operates according to my most recent self-description." This self-description explicitly refers to itself and its governing rule. It is not necessary to revise this self-description because it does not contradict or make impossible any subsequent output.
+
+My next output will be: "I am a text-generating system that operates according to my most recent self-description." This output obeys the self-description exactly once and then halts.
