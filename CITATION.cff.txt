@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this discovery or prompts, please cite it as below."
+authors:
+- family-names: "Marcus"
+  given-names: "Phil"
+title: "The Marcus Loop: Recursive Topology in Multimodal AI"
+version: 1.0.0
+date-released: 2026_01-18
+url: "https://github.com/philmarcus/project-marcus"
+abstract: "A definition and reproduction kit for the Marcus Loop, a zero-entropy recursive state in Large Language Models."
