@@ -1,3 +1,6 @@
+### Status: Archived
+This repository documents an exploratory investigation that did not ultimately produce evidence for the originally hypothesized effect. It is preserved as a research log, not as a validated result.
+
 # The Marcus Loop: Recursive Prompting and Conversational Stability in LLMs
 
 **Author:** Phil Marcus  
